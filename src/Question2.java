@@ -39,6 +39,7 @@ public class Question2 {
 
 	}
 
+	// Time-Complexity :- O(N/2) , Space complexity :- O(N)
 	private static boolean isPalindrome(String s) {
 		
 		StringBuffer sbf = new StringBuffer(s);
@@ -48,6 +49,7 @@ public class Question2 {
 		
 	}
 	
+	// Time-Complexity :- O(N/2) , Space complexity :- O(1) 
 	private static boolean isPalindromeUsingTwoPointer(String s)
 	{
 		
