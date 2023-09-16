@@ -42,6 +42,9 @@ public class Question1 {
 			System.out.println("Character '"+ch+"' occurs "+ans+" times in String '"+s+"'");
 		}
 		
+		scan.close();
+
+		
 		
 	}
 

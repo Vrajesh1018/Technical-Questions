@@ -36,6 +36,8 @@ public class Question2 {
 				
 		}
 		
+		scan.close();
+
 
 	}
 

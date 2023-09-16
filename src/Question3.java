@@ -56,6 +56,9 @@ public class Question3 {
 			System.out.println("Maximum is : "+max+" , Minimum is : "+min);
 			
 		}
+		
+		scan.close();
+
 	}
 
 }
