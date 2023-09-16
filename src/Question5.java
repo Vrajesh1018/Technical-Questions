@@ -42,17 +42,6 @@ public class Question5 {
 			b = a ^ b;
 			a = a ^ b;
 			
-			
-			/*
-			
-			// 3rd method  using multiplication and division operator
-			a = a * b;
-			b = a / b;
-			a = a / b;
-			
-			*/
-			
-			
 			System.out.println("After swapping a : "+a+" , b : "+b);
 			
 		
